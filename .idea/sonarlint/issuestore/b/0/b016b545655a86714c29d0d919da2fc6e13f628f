@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆœøÿÿÿÿ
+c
+java:S3824""HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(õÇà»øÿÿÿÿ
+^
+java:S3824$"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ğîŞß
+Q	java:S125"<This block of commented-out lines of code should be removed.(•ÉŠŒ
+E
+java:S1197>"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ù„ö™úÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(¾Öê
+Q	java:S125^"<This block of commented-out lines of code should be removed.(Ê¿¶

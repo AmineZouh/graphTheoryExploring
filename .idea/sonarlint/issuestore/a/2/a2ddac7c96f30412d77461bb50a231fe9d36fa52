@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆœøÿÿÿÿ
+Y
+java:S1854-">Remove this useless assignment to local variable "graphArray".(°÷±şÿÿÿÿ
+W
+java:S1854$"ARemove this useless assignment to local variable "graphIntArray".(¤ÂïÂ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+H
+java:S1481$"2Remove this unused "graphIntArray" local variable.(¤ÂïÂ
+J
+java:S1481-"/Remove this unused "graphArray" local variable.(°÷±şÿÿÿÿ
+Q	java:S125?"<This block of commented-out lines of code should be removed.(¾Öê

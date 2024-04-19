@@ -1,0 +1,24 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆœŽøÿÿÿÿ
+b
+java:S2095\"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(×îïÕ
+^
+java:S3824H"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(õùø¿
+^
+java:S3824F"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(õž÷Ú
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Îððøÿÿÿÿ
+N
+java:S1854Z"9Remove this useless assignment to local variable "path2".(×Þ“+
+>
+java:S1481X")Remove this unused "line" local variable.(çäªq
+W
+java:S1075Y"ARefactor your code to get this URI from a customizable parameter.(¬Àðð
+V
+java:S1075Z"ARefactor your code to get this URI from a customizable parameter.(×Þ“+
+?
+java:S1481Z"*Remove this unused "path2" local variable.(×Þ“+
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(àÓ¨¨
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(Ããä°
+V	java:S125w"<This block of commented-out lines of code should be removed.(ù ƒ‘üÿÿÿÿ
